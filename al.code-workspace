@@ -4,6 +4,9 @@
       "path": "D365VP-Tools"
     },
     {
+      "path": "D365VP-Tools.Test"
+    },
+    {
       "path": ".AL-Go"
     }
   ],
