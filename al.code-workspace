@@ -7,6 +7,9 @@
       "path": "D365VP-Tools.Test"
     },
     {
+      "path": "D365CP-Tools.PerformanceTest"
+    },
+    {
       "path": ".AL-Go"
     }
   ],
